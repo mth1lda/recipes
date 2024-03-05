@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">recipes</string>
+    <string name="app_name">Recipes</string>
+    <string name="titleList">Ingredients</string>
+    <string name="list">eggs: 2 sugar powder: 60 g flour: 50 g butter: 60 g dark chocolate 75%: 90 g</string>
+    <string name="titleSteps">Steps</string>
+    <string name="dish">Fondant</string>
+    <string name="steps">1. melt butter and chocolate. mix everything\\n2. in other dish mix eggs and sugar powder with fork\\n3. add flour and mix\\4. mix all the ingredients until smooth\\5/ turn on the oven and heat it to 175C. pour mixture in forms/ bake for 6-7 minutes\\6. leave it in the turned off over by 1 minute</string>
+</resources>
